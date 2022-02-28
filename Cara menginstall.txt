@@ -1,0 +1,7 @@
+1. masuk ke cdm, pergi ke file project
+2. masukan command composer install
+3. masukan command npm install
+4. copy .env.example dan jadikan .env
+5.masukan command php artisan key:generate untuk key bagi laravel
+6. lalu migrate database dengan command php artisan migrate
+7. dan jalankan dengan php artisan serve
